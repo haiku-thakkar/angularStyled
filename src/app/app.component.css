@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+.background-styling{
+  background-image: url('../abstract-background-design.jpg');
+  width: 100%;
+  min-height: 635px;
+}
+.new-employee-btn {
+  color:white!important;
+}
+table th{
+  color:white;
+}
